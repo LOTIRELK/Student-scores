@@ -1,0 +1,13 @@
+C:\Users\lorca\Documents\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\lorca\Documents\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\lorca\Documents\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.addStudent.resources
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.AddScore.resources
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.UpdateStudentScore.resources
+C:\Users\lorca\Documents\Forms\Forms\obj\Debug\Forms.UpdateScore.resources
